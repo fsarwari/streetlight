@@ -42,9 +42,10 @@ Source: https://tasmota.github.io/docs/Rules/#make-sure-light-is-on-at-night
 * D2 I2C SDA  (GPIO4)
 * D0 Relay 1  (GPI16)
 
-![alt text](https://github.com/fsarwari/smartswitch/blob/master/circuit.jpg?raw=true)
-![alt text](https://github.com/fsarwari/smartswitch/blob/master/board-1.png?raw=true)
-![alt text](https://github.com/fsarwari/smartswitch/blob/master/board-2.png?raw=true)
-![alt text](https://github.com/fsarwari/smartswitch/blob/master/board-3.png?raw=true)
-![alt text](https://github.com/fsarwari/smartswitch/blob/master/Tasmota-config.png?raw=true)
+## Pictures
+![Circuit](https://github.com/fsarwari/streetlight/blob/master/circuit.jpg?raw=true)
+![board without components](https://github.com/fsarwari/streetlight/blob/master/board-1.png?raw=true)
+![bpord back](https://github.com/fsarwari/streetlight/blob/master/board-2.png?raw=true)
+![bpord with components](https://github.com/fsarwari/streetlight/blob/master/board-3.png?raw=true)
+![Tasmota config](https://github.com/fsarwari/streetlight/blob/master/Tasmota-config.png?raw=true)
 
