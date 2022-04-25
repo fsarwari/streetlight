@@ -43,7 +43,7 @@ Source: https://tasmota.github.io/docs/Rules/#make-sure-light-is-on-at-night
 * D0 Relay 1  (GPI16)
 
 ## Pictures
-![Circuit](https://github.com/fsarwari/streetlight/blob/master/circuit.jpg?raw=true)
+![Circuit](https://github.com/fsarwari/streetlight/blob/master/circuit.png?raw=true)
 ![board without components](https://github.com/fsarwari/streetlight/blob/master/board-1.png?raw=true)
 ![bpord back](https://github.com/fsarwari/streetlight/blob/master/board-2.png?raw=true)
 ![bpord with components](https://github.com/fsarwari/streetlight/blob/master/board-3.png?raw=true)
