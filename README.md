@@ -47,6 +47,8 @@ Source: https://tasmota.github.io/docs/Rules/#make-sure-light-is-on-at-night
 ![board without components](https://github.com/fsarwari/streetlight/blob/master/board-1.png?raw=true)
 ![board back](https://github.com/fsarwari/streetlight/blob/master/board-2.png?raw=true)
 ![board with components](https://github.com/fsarwari/streetlight/blob/master/board-3.png?raw=true)
-![in production.png](https://github.com/fsarwari/streetlight/blob/master/in-production.png?raw=true)
+![in production](https://github.com/fsarwari/streetlight/blob/master/in-production.png?raw=true)
 ![Tasmota config](https://github.com/fsarwari/streetlight/blob/master/Tasmota-config.png?raw=true)
+![Tasmota timer1](https://github.com/fsarwari/streetlight/blob/master/timer1.png?raw=true)
+![Tasmota timer2](https://github.com/fsarwari/streetlight/blob/master/timer2.png?raw=true)
 
