@@ -1,6 +1,6 @@
 # Street Light
 
-# Description
+## Description
 A smart switch for a street light that should turn on automatically at sunset and turn off at sunrise.
 With built in clock (DS3231) it will function even without wifi.  Just needs wifi initially to set the time.
 
