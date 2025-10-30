@@ -27,7 +27,7 @@ longitude -79.337021
 
 ## Console commands to configure switchmode 
 ```
-switchmod1 3
+switchmode 1 3
 ```
 
 ## Console commands: fail-safe, power on if reset after timer
