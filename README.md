@@ -47,6 +47,11 @@ Source: https://tasmota.github.io/docs/Rules/#make-sure-light-is-on-at-night
 * D2 I2C SDA  (GPIO4)
 * D0 Relay 1  (GPI16)
 
+## Module Template
+```
+{"NAME":"Generic","GPIO":[160,0,0,0,640,608,0,0,0,0,0,0,224,0],"FLAG":0,"BASE":18}
+```
+
 ## Pictures
 ![Circuit](https://github.com/fsarwari/streetlight/blob/master/circuit.png?raw=true)
 ![board without components](https://github.com/fsarwari/streetlight/blob/master/board-1.png?raw=true)
